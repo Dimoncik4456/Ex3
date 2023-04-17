@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Rubik+Beastly&family=Yuji+Mai&display=swap');
+body {
+	background-color: lightseagreen;
+}
+p{
+	font-size: 44px;
+	color: red;
+}
+.text1{
+	font-family: cursive;
+	margin: 0px 0px 30px 0px;
+}
+.text2{
+	 font-family: "Lucida Console", Courier, monospace;
+	 font-style: oblique;
+}
+.text3{
+	font-family: 'Marck Script', cursive;
+	font-weight: 700;
+}
+.text4{
+	font-family: 'Rubik Beastly', cursive;
+	text-transform: lowercase;
+}
+.text5{
+	font-family: 'Yuji Mai', serif;
+	text-transform: uppercase;
+}
+.text6{
+	font-family: "Gill Sans", sans-serif;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+	text-decoration-color: yellow;
+}
+.text7{
+	font-family: "Gill Sans", sans-serif;
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	text-underline-position: under;
+	text-decoration-color: gold;
+}
+.text8 {
+	text-shadow: 7px -7px 17px red; 
+	font-weight: 700;
+	text-emphasis: filled blue ;
+}
+.text9{
+	text-shadow: 4px 4px yellow, 6px 6px green;
+}
